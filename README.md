@@ -19,3 +19,6 @@ Ich habe ein JavaScript welcher ausgeführt wird über die Favoriten geschrieben
 Besucht die Seite "instagram.com" 
 
 Geht auf den unteren Button in der Mitte. (Teilen)
+
+Klick dann auf "Auf Favoriten sichern"
+
