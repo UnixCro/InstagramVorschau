@@ -17,3 +17,5 @@ Ich habe ein JavaScript welcher ausgeführt wird über die Favoriten geschrieben
 # Anleitung
 
 Besucht die Seite "instagram.com" 
+
+Geht auf den unteren Button in der Mitte. (Teilen)
