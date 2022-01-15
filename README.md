@@ -22,6 +22,10 @@ Geht auf den unteren Button in der Mitte. (Teilen)
 
 Klick dann auf "Auf Favoriten sichern"
 
+<br>
+
+Klick auf die Suchleiste. Jetzt siehst du die Favoriten. Bearbeite das Favorit "Instagram" indem du lange drauf drückst.
+
 Nenn den Titel um, in "InstagramVorschau" oder nimm was du willst.
 
 Jetzt kommt der Payload 
